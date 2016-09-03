@@ -1,5 +1,5 @@
 {
-  "name": "Next",
+  "name": "hello_world",
   "version": "0.1.0",
   "scripts": {
     "start": "bower install && gulp && node app.js"
